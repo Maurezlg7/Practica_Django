@@ -66,7 +66,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'prueba_django',
         'USER': 'root',
-        'PASSWORD': 'Kingmaster7+',
+        'PASSWORD': 'Tu contraseña',
         'HOST': 'localhost',  # O la dirección IP de tu servidor MySQL
         'PORT': '3306',       # Puerto predeterminado de MySQL
         'OPTIONS': {
